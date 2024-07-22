@@ -35,7 +35,36 @@ This Financial Analytics Dashboard is a comprehensive full-stack application des
 - regression.js (for predictive analytics)
 
 ## Setup and Installation
-[Provide instructions on how to set up and run your project locally]
+Follow these steps to run the project locally:
+
+1. **Clone the Repository:** Clone this repository to your local machine using `git clone`.
+
+2. **Navigate to the Server Directory:** Open a terminal and navigate to the server directory:
+
+   ```bash
+   cd BusinessFinanceDashboard
+   cd Server
+   ```
+
+3. **Install Dependencies and Run Back-end Server** 
+
+   ```bash
+   npm install
+   npm run dev
+   ```
+4. **Navigate to the Client Directory:** Open a new terminal and navigate to the client directory:
+
+   ```bash
+   cd ..
+   cd Client
+   ```
+5. **Install Dependencies and Run the application**
+
+   ```bash
+   npm install
+   npm run dev
+   ```
+6. **Access the Application**: Go to your browser and type the following URL: http://localhost:5173/
 
 ## Database Schema
 <img src="Project_Data_Model.png" alt="Data Model for Project" style="display: block; margin: 0 auto; width: 50%;"/>
