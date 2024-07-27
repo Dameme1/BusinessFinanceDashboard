@@ -4,7 +4,8 @@
 This Financial Analytics Dashboard is a comprehensive full-stack application designed to provide in-depth financial insights and predictive analytics for business owners. It offers interactive data visualizations for key performance indicators, product and order management, and revenue forecasting using a machine learning regression model.
 
 ## Video Demo
-[Video Demo]
+![](https://github.com/Dameme1/BusinessFinanceDashboard/blob/main/CapitalyzeDemo.gif)
+
 
 ## Features
 - Interactive charts (area, line, bar, pie, scatter plots) for financial data visualization
