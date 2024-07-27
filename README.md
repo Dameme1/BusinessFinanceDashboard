@@ -67,7 +67,7 @@ Follow these steps to run the project locally:
 6. **Access the Application**: Go to your browser and type the following URL: http://localhost:5173/
 
 ## Database Schema
-<img src="Project_Data_Model.png" alt="Data Model for Project" style="display: block; margin: 0 auto; width: 50%;"/>
+<img src="./client/assets/Project_Data_Model.png" alt="Data Model for Project" style="display: block; margin: 0 auto; width: 50%;"/>
 
 
 ### Data Flow
