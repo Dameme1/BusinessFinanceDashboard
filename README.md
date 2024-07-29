@@ -35,6 +35,16 @@ This Financial Analytics Dashboard is a comprehensive full-stack application des
 ### Machine Learning
 - regression.js (for predictive analytics)
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`MONGO_URL` - your MongoDB API Key URL
+
+`PORT`
+
+`VITE_BASE_URL`
+
 ## Setup and Installation
 Follow these steps to run the project locally:
 
